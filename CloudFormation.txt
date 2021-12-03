@@ -1,0 +1,9 @@
+How do we create a aws S3 bucket
+1) Using AWS console
+2) Using Cli
+3) API, SDK - CloudFormation, Terraform (HCL), Ansible etc.
+
+AWS, Azure, Google cloud
+
+IAC: Infrastructure as a code: Cloudformation, Terraform
+Configuration management tools: Ansible, Cheff, puppet (Super set) 
