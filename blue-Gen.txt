@@ -1,0 +1,6 @@
+1) We are creating new service with a different service-name
+2) New deployment 
+
+1) There would be two different services needs to be created 
+2) New deployment with differrent deployment 
+Using the tag to identify all these
