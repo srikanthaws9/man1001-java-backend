@@ -1,0 +1,18 @@
+This is V1-
+Enabling Versiioning
+----------------------------
+1) Preserve the versions 
+2) Avoid Overrides
+3) Accidental deletions
+
+1) S3 is a managed service -- Yes/No  -- Yes
+---------------------------
+We need to manually increase the size of the bucket Yes/No  -- No
+--------------------------------------
+
+Git, SVN, SCM tools -- 
+S3 use cases
+-----------------
+1) SCM, Files, Images, Movies
+2) Hosting Static Websites -- Route53
+2) 
